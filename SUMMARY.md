@@ -6,3 +6,11 @@
 
 * [Planung, Aufbau und Betrieb eines ISMS](managemnt/planung-aufbau-und-betrieb-eines-isms.md)
 
+## Recht
+
+* [Untitled](recht/untitled.md)
+
+## Technik
+
+* [Untitled](technik/untitled.md)
+
