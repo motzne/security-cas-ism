@@ -9,7 +9,7 @@
 ## Recht
 
 * [Zusammenfassung IST](recht/zusammenfassung-ist.md)
-* [Urhberrecht](recht/untitled.md)
+* [Urheberrecht \(URG\)](recht/untitled.md)
 
 ## Technik
 
