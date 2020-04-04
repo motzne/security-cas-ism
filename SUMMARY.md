@@ -10,6 +10,7 @@
 
 * [Zusammenfassung IST](recht/zusammenfassung-ist.md)
 * [Urheberrecht \(URG\)](recht/untitled.md)
+* [Urheberrecht](recht/urheberrecht.md)
 
 ## Technik
 
