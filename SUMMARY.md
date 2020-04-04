@@ -8,7 +8,8 @@
 
 ## Recht
 
-* [Untitled](recht/untitled.md)
+* [Zusammenfassung IST](recht/zusammenfassung-ist.md)
+* [Urhberrecht](recht/untitled.md)
 
 ## Technik
 

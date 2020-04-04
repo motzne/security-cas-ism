@@ -33,7 +33,7 @@
 
 ## Begriffe
 
-
+![](../.gitbook/assets/image.png)
 
 <table>
   <thead>
@@ -127,12 +127,15 @@
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Ereigniswahrscheinlichkeit</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">auch Eintrittswahrscheinlichkeit, mathematische</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Sicherheitsmassnahme / Control</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Mitigation von einem Risiko,</p>
+        <p>Massnahme = Konkrete Aktion</p>
+      </td>
     </tr>
   </tbody>
 </table>
