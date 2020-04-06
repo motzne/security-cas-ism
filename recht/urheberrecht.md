@@ -31,11 +31,13 @@
   </tbody>
 </table>### Beispiel On Shoes
 
-* Patent
+![](../.gitbook/assets/image%20%282%29.png)
+
+* Patent \(Sohle, ist eine Innovation, technische Lösung für Problem\)
 * Marke
-* Urheberrecht
-* Design
-* Lauterkeitsrecht \(ergänzend, kein Immaterialgüterrecht "Off", "Otto!s"
+* Urheberrecht \(schwierig bei diesem Schuh, Form ist wie ein Schuh, Sohle = Patent\)
+* Design \(Nur noch Gestaltung, Formen, Farben, Strukturen
+* Lauterkeitsrecht \(kein Immaterialgüterrecht, wichtig im Kontext, ergänzend "Off", "Otto!s". Aspirin der Juristen, wenn ich nichts mehr hab , ZGB 2 / Treu und Glauben\)
 
 
 

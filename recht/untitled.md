@@ -6,13 +6,21 @@
   * Bundesgesetz über das Urheberrecht und verwandte Schutzrechte \(Urheberrechtsgesetz, URG, SR 231.1\)
 * Schutzvoraussetzungen
   * Art. 2 URG
-    * Werke sind unabhängig von ihrem Wert oder Zweck, geistigen Schöpfungen der Literatur und Kunst, die individuellen Charakter haben.
+    * Werke sind 
+      * unabhängig von ihrem Wert oder Zweck
+      * geistigen Schöpfungen der Literatur und Kunst
+      * individuellen Charakter 
     * Ein geschütztes Werk muss neu sein.
     * Geschützt ist nicht die Idee, sondern deren wahrnehmbarer Ausdruck
     * Schutz ipso iure -&gt; Keine Registrierung! 
-* Individueller Charakter entspricht Originalität 
+* Individueller Charakter entspricht **Originalität** 
 * Bei Software wird der Algorithmus angeschaut, ob er «originell» ist.
 * Das wichtigste am URG \(Art. 2\) ist: **Geistige Schöpfung und Individueller Charakter**
+* NEU: Tel-Quel-Schutz von Fotografien, Fotos auch ohne individuellen Charakter sind URG geschützt
+
+
+
+
 
 ### Übersicht Artikel
 
