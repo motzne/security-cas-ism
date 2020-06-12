@@ -15,4 +15,5 @@
 ## Technik
 
 * [Untitled](technik/untitled.md)
+* [Governance](governance.md)
 

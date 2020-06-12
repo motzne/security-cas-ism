@@ -29,7 +29,9 @@
       </td>
     </tr>
   </tbody>
-</table>### Beispiel On Shoes
+</table>
+
+### Beispiel On Shoes
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
