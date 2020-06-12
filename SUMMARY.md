@@ -5,6 +5,7 @@
 ## Management <a id="managemnt"></a>
 
 * [Planung, Aufbau und Betrieb eines ISMS](managemnt/planung-aufbau-und-betrieb-eines-isms.md)
+* [Governance](managemnt/governance.md)
 
 ## Recht
 
@@ -15,5 +16,4 @@
 ## Technik
 
 * [Untitled](technik/untitled.md)
-* [Governance](governance.md)
 
