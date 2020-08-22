@@ -100,6 +100,74 @@ Voraussetzungen:
 * Kausalität: Produktefehler verursachte Schaden
 * Keine Entlastung: Befreiung misslingt; insbesondere Umstand, dass Fehler nach dem Stand von Wissenschaft und Technik im Zeitpunkt des Inverkehrbringens nicht erkannt werden konnte.
 
+## Genugtuung
+
+* -  Tötung eines Menschen oder Körperverletzung \(OR 47\)
+* -  Persönlichkeitsverletzung \(OR 49\)
+* -  Geldleistung für «seelische Unbill» \(zusätzlich zu Schadenersatz\)
+
+## Verjährung
+
+* Wenn Schuldner Einrede der Verjährung erhebt, kann Forderung auf
+
+  Gerichtsweg nicht mehr durchgesetzt werden.
+
+* Vertragliche Haftung \(OR 97 ff.\)  \(OR 127 ff.\) generell 10 Jahre
+
+   Körperverletzung/Tötung  relativ 3 Jahre  absolut 20 Jahre
+
+* Deliktische Haftung \(OR 41 ff.\)  \(OR 60\) generell relativ 3 Jahre
+
+   generell absolut 10 Jahre  Körperverletzung/Tötung  relativ 3 Jahre
+
+   absolut 20 Jahre
+
+* Produkthaftung  relativ 3 Jahre \(PrHG 9\)  absolut 10 Jahre \(OR 127 ff.\)
+* Unterbrechung
+* u.a. durch Anerkennung der Forderung, Betreibung oder Klage
+* Verjährungsverzicht \(!\)
+
+## Haftungsausschluss
+
+* Kombination von OR 100 und PrHG 8 macht Haftungsausschluss schwierig
+* OR 100
+* Eine zum voraus getroffene Verabredung, wonach die Haftung für rechtswidrige Absicht oder grobe Fahrlässigkeit ausgeschlossen sein würde, ist nichtig.
+* Haftungsausschluss nur für leichte Fahrlässigkeit
+* PrHG 8
+* Vereinbarungen, welche die Haftpflicht nach PrHG gegenüber Geschädigten beschränken oder wegbedingen, sind nichtig.
+* i.V.m. PrHG 1 ist lediglich im Verhältnis B2B Haftungsausschluss für Sachschäden zulässig.
+
+## Punitive Damage
+
+* In eigene Worten: Eine Strafzahlung einer Art Betrag, ist aber kein Strafzahlung. 
+* insb. USA, selten UK, jedoch nicht in der Schweiz
+* Dt. «Strafschadenersatz»
+* Wird im Rahmen eines Zivilprozesses i.d.R. dem Geschädigten zugesprochen
+* Hat nichts mit dem effektiven Schaden zutun
+* Zielt auf die Veränderung des Verhaltens eines Unternehmens ab
+* Betrag muss darum so hoch sein, dass ein Unternehmen sein Verhalten effektiv ändert
+* Beispiel: McDonald's Coffee Case \( digilaw.ch\)
+
+## Haftung in der Robotik, insb. für selbstfahrende Autos
+
+* Roboter drängen Menschen zunehmend aus Arbeits- und Handlungsprozessen
+
+   können nicht mehr für Fehler haftbar gemacht werden
+
+* Roboter selbst kann auch nicht Subjekt einer Haftpflicht sein
+* Shift zu Produkthaftpflicht \(\)
+* Herstellerhaftung bei selbstlernenden Produkten \( PrHG 5 I b!\)
+* Selbstfahrendes Auto = vorliegend vollautomatisiert
+* Lenker wird zum Passagier  Lift \(Liftboys\)
+* Halterhaftung \(SVG 58\)
+* Produktehaftung \(\)
+* BILANZ 03/2020, Prof. Sebastian Thrun, Stanford Uni: «Autofirmen müssen sich noch an den Gedanken gewöhnen, dass die Haftung bei ihnen liegt, nicht mehr beim Fahrer».
+* Selbstfahrendes Auto = vorliegend vollautomatisiert
+* Lenker wird zum Passagier  Lift \(Liftboys\)
+* Halterhaftung \(SVG 58\)
+* Produktehaftung \(\)
+* BILANZ 03/2020, Prof. Sebastian Thrun, Stanford Uni: «Autofirmen müssen sich noch an den Gedanken gewöhnen, dass die Haftung bei ihnen liegt, nicht mehr beim Fahrer».
+
 ## Haftpflichtversicherungen 
 
 Risiko = Eintretenswahrscheinlichkeit \* mögliches Schadenausmass
@@ -123,8 +191,6 @@ Risiko = Eintretenswahrscheinlichkeit \* mögliches Schadenausmass
   * Besteht freie Anwaltswahl?
 * Private Rechtsschutz deckt keine Schäden aus dem beruflichen Umfeld!
 * Beinhaltet in der Regel auch Beratung ausserhalb von Prozessen; durch Juristen der Rechtsschutzversicherung selbst
-
-
 
 ## Gesetzesartikel
 
