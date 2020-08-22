@@ -62,7 +62,7 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 ### Swiss Code of Best Practice \(«Swiss Code»\)
 
 * Empfehlung aus dem Jahre 2002 \(aktualisiert 2007, 2014 und 2016\) des Wirtschafts-Dachverbandes Economiesuisse bezüglich Corporate Governance der an der Schweizer Börse notierten Gesellschaften
-* «Soft Law»  kann grundsätzlich nicht vom Staat sanktioniert werden  Sanktionierung durch Verbände
+* «Soft Law»  kann grundsätzlich nicht vom Staat sanktioniert werden  Sanktionierung durch Verbände \(_Soft Law_ ist eine Bezeichnung für nicht verbindliche Übereinkünfte, Absichtserklärungen oder Leitlinien\)
 * u.a. Vorgaben zu folgenden Bereichen zu VR und GL
   * -  Zusammensetzung und Aufgaben des VR  OR 716a
   * -  Arbeitsweise und Vorsitz des VR
@@ -105,4 +105,10 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 * ISO/IEC 27002: Leitfaden für das Informationssicherheitsmanagement
 
    Auswahl und Umsetzung von IT-Sicherheitsstandards zählt zu den Aufgaben des IT-Sicherheitsmanagements
+
+### Compliance
+
+Effektives Implementieren, Umsetzen der definierten internen und externen Richtlinien, wie wird es explizit umgesetzt
+
+* Effektive und effiziente Umsetzung aller internen und externen Politiken und Vorschriften
 
