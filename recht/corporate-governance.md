@@ -59,8 +59,6 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 * Who: in welchen Bereichen, wird es eingesetzt
 * How: Guidelines Wie wird es umgesetzt, explizite Anweisungen
 
-
-
 ### Swiss Code of Best Practice \(«Swiss Code»\)
 
 * Empfehlung aus dem Jahre 2002 \(aktualisiert 2007, 2014 und 2016\) des Wirtschafts-Dachverbandes Economiesuisse bezüglich Corporate Governance der an der Schweizer Börse notierten Gesellschaften
@@ -75,8 +73,6 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 
     - Personalunion von VRP und CEO  adäquate Kontrollmechanismen
 * Internes Kontrollsystem
-
-
 
 ### Information Security Governance
 
@@ -97,4 +93,16 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 ![](../.gitbook/assets/screenshot-2020-08-22-at-10.29.27.png)
 
 
+
+
+
+### Regelungen/Standards der Information Security Governance \(Auswahl\)
+
+* Datenschutzgesetz \(DSG\)
+* EU-Datenschutz-Grundverordnung \(DSGVO\)
+* Internationale Normen zur Bewertung und Zertifizierung der Sicherheit von Computersystemen \(insb. Common Criteria-Standard\)
+* ISO/IEC 27001: Norm für Informationsicherheitsmanagementsysteme \(ISMS\)
+* ISO/IEC 27002: Leitfaden für das Informationssicherheitsmanagement
+
+   Auswahl und Umsetzung von IT-Sicherheitsstandards zählt zu den Aufgaben des IT-Sicherheitsmanagements
 
