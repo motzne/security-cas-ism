@@ -5,6 +5,7 @@
 ## Management <a id="managemnt"></a>
 
 * [Planung, Aufbau und Betrieb eines ISMS](managemnt/planung-aufbau-und-betrieb-eines-isms.md)
+* [Integriertes Informations-Risikomanagement im Praxiseinsatz](managemnt/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
 * [Governance](managemnt/governance.md)
 
 ## Recht
