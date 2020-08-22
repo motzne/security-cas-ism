@@ -4,7 +4,8 @@ description: Information Security Governance
 
 # Corporate Governance
 
-Framework mit Regeln, Richtlinien und Definitionen wie man es machen sollte, Managen und Monitoren, Anforderungen, \(Information Security\)
+_In eigenen Worten:   
+Framework mit Regeln, Richtlinien und Definitionen wie man es machen sollte, Managen und Monitoren, Anforderungen, \(Information Security\) zum Wohlergehen des Unternehmers und der Stakeholder_
 
 ### Was ist Corporate Governance?
 
@@ -45,6 +46,8 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 * Mindestens einmal im Jahr kontrollieren
 * Klare Aufgabentrennung
 
+![](../.gitbook/assets/image%20%284%29.png)
+
 ### Roles and Responsibilities 
 
 * Management
@@ -56,8 +59,42 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 * Who: in welchen Bereichen, wird es eingesetzt
 * How: Guidelines Wie wird es umgesetzt, explizite Anweisungen
 
-Was wird getan? Regeln  
-Wie wird es geta
+
+
+### Swiss Code of Best Practice \(«Swiss Code»\)
+
+* Empfehlung aus dem Jahre 2002 \(aktualisiert 2007, 2014 und 2016\) des Wirtschafts-Dachverbandes Economiesuisse bezüglich Corporate Governance der an der Schweizer Börse notierten Gesellschaften
+* «Soft Law»  kann grundsätzlich nicht vom Staat sanktioniert werden  Sanktionierung durch Verbände
+* u.a. Vorgaben zu folgenden Bereichen zu VR und GL
+  * -  Zusammensetzung und Aufgaben des VR  OR 716a
+  * -  Arbeitsweise und Vorsitz des VR
+  * -  Umgang mit Interessenkonflikten und Wissensvorsprüngen
+  * -  Präsident von VR und GL: Personalunionen und Doppelspitze
+
+    - Mehrheit des VR soll nicht GL angehören
+
+    - Personalunion von VRP und CEO  adäquate Kontrollmechanismen
+* Internes Kontrollsystem
+
+
+
+### Information Security Governance
+
+* Corporate Governance
+  * _Alle Regeln_
+* IT Governance
+  * _Governance im Bezug auf IT_
+* Information Security
+
+  * _Information ist nicht nur IT, geht etwas darüber hinaus_
+  * Informationsverarbeitende und -lagernde \(technischen oder nicht-
+
+  technischen\) Systeme, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität sicherstellen
+
+* Information Security Governance
+  * Führung, Organisationsstrukturen und Prozesse zur Sicherstellung der Unterstützung der Unternehmensstrategie und -ziele  in Bezug auf Information Security
+
+![](../.gitbook/assets/screenshot-2020-08-22-at-10.29.27.png)
 
 
 
