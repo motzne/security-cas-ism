@@ -1,4 +1,4 @@
-# 🔴: Haftung in digitalen Projekten
+# Haftung in digitalen Projekten
 
 * Uber-Case: Juristisch Interessant: Maschine und nicht mehr der Mensch. Verschuldungshaftung nimmt ab, Produktehaftung wird höher. System hat ein Mangel
 

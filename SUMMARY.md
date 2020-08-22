@@ -12,7 +12,7 @@
 
 * [Zusammenfassung IST / Mindmap](recht/zusammenfassung-ist.md)
 * [Corporate Governance](recht/corporate-governance.md)
-* [🔴: Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
+* [Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
 * [🔴: Agile Projektmethode](recht/agile-projektmethode.md)
 * [🔴: Cybercrime Strafrecht & Surveillance](recht/cybercrime-strafrecht-and-surveillance.md)
 * [🔴: Datenschutz](recht/datenschutz.md)
