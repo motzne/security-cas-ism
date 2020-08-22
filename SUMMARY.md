@@ -2,11 +2,11 @@
 
 * [README](README.md)
 
-## Management <a id="managemnt"></a>
+## Management
 
-* [Planung, Aufbau und Betrieb eines ISMS](managemnt/planung-aufbau-und-betrieb-eines-isms.md)
-* [Integriertes Informations-Risikomanagement im Praxiseinsatz](managemnt/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
-* [Governance](managemnt/governance.md)
+* [Planung, Aufbau und Betrieb eines ISMS](management/planung-aufbau-und-betrieb-eines-isms.md)
+* [Integriertes Informations-Risikomanagement im Praxiseinsatz](management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
+* [Governance](management/governance.md)
 
 ## Recht
 
